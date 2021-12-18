@@ -1,6 +1,8 @@
 # Smart-Home-Dashboard
 This smart home application is a low-cost IoT enabled web application for a) monitoring temperature and humidity, b) controlling a thermostat and a lighting system, and c) simulating power consumption, a simple security system, and others. The IoT device uses two photoresistors and a humidity &amp; temperature sensor (DHT11). The IoT device will transmit measurements to a web application so that users can monitor their home. A simulated clock has been used for this project to aid in mimicking real-world scenarios. The web application uses responsive design to allow users to view the application seamlessly on desktop, tablet, and mobile devices.
 
+This dashboard includes account registration, login and the ability to bind multiple devices to an account. The account login implementation uses JWT authentication to sign a message which is later decrypted server-side to verify authenticity.
+
 ## Available Scripts
 
 In the project directory, you can run:
