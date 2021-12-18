@@ -10,7 +10,7 @@ In the project directory, you can run:
 ### `npm start`
 
 Runs the app in the development mode.\
-You must run both the React App and the API in order to access the dashboard.
+You must run both the React App and the API in order to access the dashboard.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
