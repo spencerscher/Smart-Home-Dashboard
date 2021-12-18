@@ -1,0 +1,13 @@
+.container{
+  padding-top: 20%;
+  position:absolute;
+  text-align: center;
+  margin: 5px;
+  font-size: 13px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.app{
+  background-color: red;
+}
